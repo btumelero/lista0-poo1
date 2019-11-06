@@ -1,1 +1,2 @@
-# lista0-poo1
+# lista0-poo2
+Revisão feita na primeira aula de Programação Orientada a Objetos II
